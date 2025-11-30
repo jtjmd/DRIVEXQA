@@ -1,7 +1,7 @@
 # DRIVEXQA: Cross-modal Visual Question Answering for Adverse Driving Scene Understanding
 
 [![Paper](https://img.shields.io/badge/Paper-ICRA%202026-red)](paperlink)
-[![Dataset](https://img.shields.io/badge/Dataset-Download-blue)](datasetlink)
+[![Dataset](https://img.shields.io/badge/Dataset-Download-blue)]([datasetlink](https://1drv.ms/u/c/61920c3ee2305751/IQAtTCkMDPZKSaM9JbMK9NoUAZ9gBhT2m1lRMd-av1eYFFE?e=bKCYbK))
 
 > **Submitted to ICRA 2026** 
 
@@ -493,21 +493,6 @@ checkpoints_<model_type>/
 ├── epoch-2/
 ├── ...
 └── final/                        # Final model
-```
----
-
-## Citation
-
-If you use DRIVEXQA dataset or MVX-LLM framework in your research, please cite:
-
-```bibtex
-@inproceedings{drivexqa2026,
-  title={DRIVEXQA: Cross-modal Visual Question Answering for Adverse Driving Scene Understanding},
-  author={Mingzhe Tao, Ruiping Liu, Junwei Zheng, Yufan Chen, Kedi Ying, Saquib Sarfraz, Kailun Yang,\\Jiaming Zhang, and Rainer Stiefelhagen},
-  booktitle={2026 IEEE International Conference on Robotics and Automation (ICRA)},
-  year={2026},
-  note={Manuscript 1219, Submitted September 15, 2025}
-}
 ```
 ---
 
