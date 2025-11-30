@@ -41,9 +41,8 @@ A comprehensive multi-modal dataset and framework for visual question answering 
 - [Model Architectures](#model-architectures)
 - [Training Configuration](#training-configuration)
 - [Evaluation Framework](#evaluation)
-- [Example Results](#-example-results)
 - [Citation](#citation)
-- [License](#license)
+
 
 ---
 
@@ -509,16 +508,7 @@ If you use DRIVEXQA dataset or MVX-LLM framework in your research, please cite:
   year={2026},
   note={Manuscript 1219, Submitted September 15, 2025}
 }
-
----
-
-## Acknowledgments
-
-- Vision encoders based on CLIP and PointNet++
-- LLM backbone: Vicuna-7B-v1.5
-- Training framework built with PyTorch and HuggingFace Transformers
-- Evaluation framework uses OpenAI GPT-4o for semantic scoring
-
+```
 ---
 
 ## Evaluation
