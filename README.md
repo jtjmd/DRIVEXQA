@@ -3,7 +3,6 @@
 [![Paper](https://img.shields.io/badge/Paper-ICRA%202026-red)](paperlink)
 [![Dataset](https://img.shields.io/badge/Dataset-Download-blue)](https://1drv.ms/u/c/61920c3ee2305751/IQAtTCkMDPZKSaM9JbMK9NoUAZ9gBhT2m1lRMd-av1eYFFE?e=bKCYbK)
 
-> **Submitted to ICRA 2026** 
 
 A comprehensive multi-modal dataset and framework for visual question answering in adverse driving conditions. DRIVEXQA addresses the critical challenge of maintaining robust scene understanding when autonomous vehicles face challenging weather conditions and sensor degradation scenarios.
 
